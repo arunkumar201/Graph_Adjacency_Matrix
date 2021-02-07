@@ -1,0 +1,2 @@
+# Graph_Adjacency_Matrix
+An adjacency array is a two-dimension array defined as a[i][j] = {1 if there is an edge (i, j)               0 if there is no edge (i, j) 1.Assuming the graph has n vertices, the time complexity to build such a matrix is O(n^2}. The space complexity is also  O(n^2). 2.The advantage of such representation is that we can check in O(1)} time if there exists edge  by simply checking the value at i^th row and j^th column of our matrix. 3.to Identifying all edges takes Θ(n2) time.
